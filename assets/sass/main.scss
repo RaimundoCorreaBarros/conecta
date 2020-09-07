@@ -1,0 +1,22 @@
+// Vendors
+@import 'vendors/bootstrap-4.5.2/scss/bootstrap.scss';
+
+// Abstracts
+@import 'abstracts/variables';
+
+// Base
+@import 'base/reset';
+@import 'base/tipography';
+@import 'base/base';
+
+
+// Layout
+@import 'layout/navbar';
+@import 'layout/servicios';
+@import 'layout/hero';
+@import 'layout/main';
+@import 'layout/experiencia';
+@import 'layout/equipo';
+@import 'layout/mision';
+@import 'layout/contacto';
+@import 'layout/footer';

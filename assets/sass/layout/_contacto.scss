@@ -1,0 +1,21 @@
+.contacto {
+    padding-bottom: 3rem;
+    text-align: center;
+
+    h3 {
+        padding-top: 3rem;
+        padding-bottom: 5rem;
+    }
+}
+
+.contacto__datos {
+    text-align: left;
+}
+.contacto__btn {
+    text-align: left;
+}
+
+.btn__contacto {
+    color: $blanco;
+    background: $celeste;
+}

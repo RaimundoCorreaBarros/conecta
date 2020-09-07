@@ -1,0 +1,46 @@
+body {
+
+}
+
+hr {
+    width: 200px;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $azul;
+    font-family: $narrow;
+}
+
+p {
+    font-family: $arimo;
+    font-size: $small;
+    color: $gris;
+    line-height: 24px;
+}
+
+h2 {
+    font-size: $xxx-large;
+    line-height: 64px;
+}
+
+h3 {
+    font-size: $xx-large;
+    line-height: 48px;
+}
+
+h4 {
+    font-size: $x-large;
+    line-height: 40px;
+}
+
+h5 {
+    font-size: $large;
+    line-height: 32px;
+}
+
+h6 {
+    font-size: $medium;
+    line-height: 24px;
+}

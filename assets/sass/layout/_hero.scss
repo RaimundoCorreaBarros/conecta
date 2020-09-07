@@ -1,0 +1,13 @@
+.hero {
+    background-image: url('../image/banner.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    height: 500px;
+    width: 100%;
+}
+
+.hero__title {
+    padding-top: 350px;
+    text-shadow: 1px 1px 7px #fff;
+}

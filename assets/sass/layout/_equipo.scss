@@ -1,0 +1,24 @@
+.equipo {
+    text-align: center;
+
+    h3 {
+        padding-top: 3rem;
+        padding-bottom: 2rem;        
+    }
+
+    h5 {
+        padding-bottom: 2rem;
+    }
+    img {
+        width: 150px;
+        margin-bottom: 1rem;
+    }
+}
+
+.equipo__img {
+    text-align: center;
+}
+
+.parrafo_azul {
+    color: $azul;
+}
